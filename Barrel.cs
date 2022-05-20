@@ -11,7 +11,7 @@ public class Barrel : Sprite
 	{
 		//	rotation++;
 		//	Aim();
-		// Nikita's comment
+		// Super useful feature
 	}
 
 }
